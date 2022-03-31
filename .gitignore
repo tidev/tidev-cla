@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+pnpm-lock.yaml
+
+/build
+/.cache
+/server/build
+/public/build
+.env
